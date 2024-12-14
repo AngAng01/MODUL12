@@ -5,7 +5,7 @@
    ## Overview
       Program ini terdiri dari satu file bernama 'main.go' dan mencakup komponen-komponen utama berikut:
       - Pernyataan 'package main', yang mendefinisikan paket untuk program yang dapat dieksekusi.
-      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt' dan 'math').
+      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt').
       - Fungsi 'main()', yang merupakan titik awal dari setiap program Go.
       - Konstanta maxSize, Konstanta ini mendefinisikan ukuran maksimum array (datInt), yang bernilai 100. Konstanta ini digunakan sebagai batas untuk jumlah rumah di setiap daerah.
       - Tipe Data datInt, Sebuah tipe data berupa array dengan ukuran tetap ([maxSize]int) yang digunakan untuk menyimpan daftar nomor rumah di setiap daerah.
@@ -98,7 +98,7 @@
    ## Overview
       Program ini terdiri dari satu file bernama 'main.go' dan mencakup komponen-komponen utama berikut:
       - Pernyataan 'package main', yang mendefinisikan paket untuk program yang dapat dieksekusi.
-      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt' dan 'math').
+      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt').
       - Fungsi 'main()', yang merupakan titik awal dari setiap program Go.
       - Deklarasi Konstanta MAX, Menyimpan nilai batas maksimum yang dapat diterima untuk jumlah daerah dan jumlah rumah, yaitu 1.000.000.
       - Fungsi pengurutanMembesar, Mengimplementasikan algoritma pengurutan selection sort untuk mengurutkan array dalam urutan menaik (dari kecil ke besar).
@@ -210,7 +210,7 @@
    ## Overview
       Program ini terdiri dari satu file bernama 'main.go' dan mencakup komponen-komponen utama berikut:
       - Pernyataan 'package main', yang mendefinisikan paket untuk program yang dapat dieksekusi.
-      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt' dan 'math').
+      - Pernyataan 'import', yang digunakan untuk menyertakan paket-paket yang diperlukan (dalam hal ini, 'fmt').
       - Fungsi 'main()', yang merupakan titik awal dari setiap program Go.
       - Konstanta MaxSize, Digunakan untuk menentukan ukuran maksimum array yang digunakan untuk menyimpan data input.
       - Tipe data datInt, Tipe array dengan ukuran tetap, yang digunakan untuk menyimpan angka-angka yang dimasukkan oleh pengguna.
